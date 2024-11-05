@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://evapaivo.github.io/FIP/sitemap_index.txt
+Sitemap: https://evapaivo.github.io/PkC/sitemap_index.txt
+Sitemap: https://evapaivo.github.io/ZSk/sitemap_index.txt
+Sitemap: https://evapaivo.github.io/kUx/sitemap_index.txt
